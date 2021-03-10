@@ -1,0 +1,27 @@
+{
+  "name": "js-combperm",
+  "version": "1.0.0",
+  "description": "Math Combination and permutation module - es6 and commonjs hybrid package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./lib/test/performance.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirpavk/js-combperm.git"
+  },
+  "keywords": [
+    "math",
+    "comb",
+    "combination",
+    "combinations",
+    "perm",
+    "permutations"
+  ],
+  "author": "Vladimir Pavković",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladimirpavk/js-combperm/issues"
+  },
+  "homepage": "https://github.com/vladimirpavk/js-combperm#readme"
+}
