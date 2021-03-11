@@ -2,7 +2,7 @@
   "name": "js-combperm",
   "version": "1.0.0",
   "description": "Math Combination and permutation module - es6 and commonjs hybrid package",
-  "main": "index.js",
+  "main": "./lib/commonjs/comb.js",
   "scripts": {
     "test": "node ./lib/test/performance.js"
   },
@@ -16,7 +16,8 @@
     "combination",
     "combinations",
     "perm",
-    "permutations"
+    "permutations",
+    "heap"
   ],
   "author": "Vladimir Pavković",
   "license": "MIT",
