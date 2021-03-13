@@ -4,7 +4,7 @@
   "description": "Math Combination and permutation module - es6 and commonjs hybrid package",
   "main": "./lib/commonjs/comb.js",
   "scripts": {
-    "test": "node ./lib/test/performance.js"
+    "howto": "node ./lib/test/howto.js"
   },
   "repository": {
     "type": "git",
