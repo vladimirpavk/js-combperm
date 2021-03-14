@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Math Combination and permutation module - es6 and commonjs hybrid package",
   "main": "./lib/commonjs/comb.js",
+  "module": "./lib/es/comb.js",
   "scripts": {
     "howto": "node ./lib/test/howto.js"
   },
@@ -24,5 +25,7 @@
   "bugs": {
     "url": "https://github.com/vladimirpavk/js-combperm/issues"
   },
-  "homepage": "https://github.com/vladimirpavk/js-combperm#readme"
+  "homepage": "https://github.com/vladimirpavk/js-combperm#readme",
+  "devDependencies": {    
+  }
 }
