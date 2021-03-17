@@ -5,7 +5,8 @@
   "main": "./lib/commonjs/comb.js",
   "module": "./lib/es/comb.js",
   "scripts": {
-    "howto": "node ./lib/test/howto.js"
+    "howto": "node ./lib/test/howto.js",
+    "build_web": "webpack"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "url": "https://github.com/vladimirpavk/js-combperm/issues"
   },
   "homepage": "https://github.com/vladimirpavk/js-combperm#readme",
-  "devDependencies": {    
+  "devDependencies": {
+    "path": "^0.12.7"
   }
 }
